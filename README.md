@@ -1,5 +1,5 @@
 # About
-I have implemented the Whisper Hindi (Automatic Speech Recognition) model . I used the dataset provided above and transcribed it  . 
+I have implemented the Whisper Hindi (Automatic Speech Recognition) model . I used the dataset provided below and transcribed it  . 
 I also calculated the WER for the given dataset. I used jiwer python package to import WER and then calculated the average WER for the dataset provided. 
 
 ## Resources 
